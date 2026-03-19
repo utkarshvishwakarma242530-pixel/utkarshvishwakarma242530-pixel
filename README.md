@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Progress;Learning+Kali+Linux;Future+Security+Expert)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!# 💫 About Me:
@@ -36,4 +38,9 @@ About Me<br>Final-year B.Tech student passionate about Cybersecurity and ethical
 - 🌐 Networking Basics (TCP/IP, DNS, HTTP/HTTPS)
 - 🔎 Web Security (OWASP Top 10)
 - 🛠️ Tools: Nmap, Burp Suite (Basics), Wireshark
+
+## 🧠 Platforms I'm Learning From
+- TryHackMe
+- Hack The Box
+
 
